@@ -1,0 +1,7 @@
+{
+    "title": "Parse Vendor Log",
+    "description": "Extract and process information from a log file",
+    "tags": [],
+    "difficulty": -1,
+    "order": 0
+}
